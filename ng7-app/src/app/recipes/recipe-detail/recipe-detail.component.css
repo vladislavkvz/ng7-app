@@ -1,3 +1,7 @@
 .img-responsive{
     max-height: 300px;
 }
+
+.as-cursor{
+    cursor: pointer;
+}
